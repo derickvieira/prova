@@ -1,8 +1,8 @@
 1° O QUE � CLONE?
-Significa: c�pia, possibilita a busca de arquivos na sua biblioteca.
+SIGNIFICA: c�pia, possibilita a busca de arquivos na sua biblioteca.
 
 2° O QUE É COMMIT? 
-Significa: comentário qualquer trás um arquivo e faz uma revisão, possibilitando 
+SIGNIFICA: comentário qualquer trás um arquivo e faz uma revisão, possibilitando 
 que colegas vejam seu projeto.
 
 3° O QUE É UM REPOSITÓRIO?
